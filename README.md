@@ -104,9 +104,9 @@ Findings
 
 **Key metrics**
 
-# of cars
+number of cars
 
-# of cars with negative net revenue
+number of cars with negative net revenue
 
 Gross Revenue
 
