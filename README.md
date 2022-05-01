@@ -1,4 +1,4 @@
-# Thinkful-Capstone-Projects
+# LariatCarRental_Capstone1
 **The scenario for this project:** I am consulting as a data analyst for Lariat. They've hired me to make recommendations about how to make **better decisions**, which they measure in terms of the **costs and revenue** generated **by** their **rental car fleet**.
 
 They've provided me with raw data in **four Excel worksheets** in four workbooks.
