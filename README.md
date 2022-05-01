@@ -127,9 +127,10 @@ Net Revenue
 Avg Net Revenue Per Car
 
 ### Step 7: Building out parameters to use as inputs
-
+see excel spreadsheet
 ### Step 8: **Format your model**
-
+see excel spreadsheet
 ### Step 9: **Build out the modeled scenarios**
-
+see excel spreadsheet
 ### Step 10: **Add data validation and protected ranges.**
+see excel spreadsheet
