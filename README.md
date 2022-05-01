@@ -127,10 +127,10 @@ Net Revenue
 Avg Net Revenue Per Car
 
 ### Step 7: Building out parameters to use as inputs
-see excel spreadsheet
+https://github.com/dankimsp/LariatCarRental_Capstone1/blob/main/Capstone_Study_1_LariatCarRental.xlsx
 ### Step 8: **Format your model**
-see excel spreadsheet
+https://github.com/dankimsp/LariatCarRental_Capstone1/blob/main/Capstone_Study_1_LariatCarRental.xlsx
 ### Step 9: **Build out the modeled scenarios**
-see excel spreadsheet
+https://github.com/dankimsp/LariatCarRental_Capstone1/blob/main/Capstone_Study_1_LariatCarRental.xlsx
 ### Step 10: **Add data validation and protected ranges.**
-see excel spreadsheet
+https://github.com/dankimsp/LariatCarRental_Capstone1/blob/main/Capstone_Study_1_LariatCarRental.xlsx
